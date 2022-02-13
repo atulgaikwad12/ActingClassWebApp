@@ -25,7 +25,7 @@
                             </div><br>
                         
                                       <?php 
-                        $API_key    = 'AIzaSyA-Xm3Bcfj8ni6_fz1OjIelvj0EguWOZw4';
+                        $API_key    = 'AddGoogleAPIKeyHere';
                         $channelID  = 'UCgE3QLgvvekEFtPUpRCiEQw';
                         $maxResults = 10;
                         $counter=0;
